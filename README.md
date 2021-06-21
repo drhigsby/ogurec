@@ -7,4 +7,3 @@ Right-sided PM = components away from PCB
 
 http://www.keyboard-layout-editor.com/#/gists/f1bda3a87822868599cf6e3c4340f594
 
-"Russian cucumber"
